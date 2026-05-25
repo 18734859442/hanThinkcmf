@@ -14,4 +14,3 @@ Vagrantfile
 .env
 /config
 /docker/redis/data
-/docker/mysql/data
