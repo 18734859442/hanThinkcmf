@@ -24,13 +24,13 @@ return [
             // 数据库类型
             'type'              => env('DATABASE_TYPE', 'mysql'),
             // 服务器地址
-            'hostname'          => env('DATABASE_HOSTNAME', '127.0.0.1'),
+            'hostname'          => env('DATABASE_HOSTNAME', 'mysql'),
             // 数据库名
             'database'          => env('DATABASE_DATABASE', 'thinkcmf'),
             // 用户名
             'username'          => env('DATABASE_USERNAME', 'root'),
             // 密码
-            'password'          => env('DATABASE_PASSWORD', 'root'),
+            'password'          => env('DATABASE_PASSWORD', '123456'),
             // 端口
             'hostport'          => env('DATABASE_HOSTPORT', '3306'),
             // 数据库连接参数
