@@ -12,5 +12,4 @@ Vagrantfile
 .vagrant
 *.log
 .env
-/config
 /docker/redis/data
